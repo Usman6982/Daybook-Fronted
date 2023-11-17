@@ -1,11 +1,16 @@
 {
     "cSpell.words": [
         "addnote",
+        "Currentnote",
+        "deletenote",
         "describedby",
+        "edescription",
+        "etitle",
         "fetchallnotes",
         "Ijoi",
         "Imlhd",
         "Imlk",
+        "labelledby",
         "Noteitem",
         "XVCJ"
     ]
